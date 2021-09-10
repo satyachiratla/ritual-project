@@ -1,0 +1,29 @@
+.products {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.container {
+    background-color: #ffffff00;
+    width: 250px;
+    height: 180px;
+    border: 1px solid #f0ecec;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.img {
+    height: 70%;
+    width: 100%;
+}
+
+h2 {
+    color: rgb(20, 43, 111);
+    font-family: "LL Circular", sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 0;
+    padding: 8px 36px;
+    text-align: center;
+}
